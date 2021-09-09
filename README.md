@@ -1,4 +1,4 @@
-# cardiac
+# Cardiac energetics
 
 A set of codes to simulate mitochondrial OXPHOS and energy metabolism in cardiac cells using FE methods.
 
